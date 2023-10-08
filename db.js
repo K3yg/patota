@@ -1,0 +1,1 @@
+const mongoDB_URL = "mongodb+srv://duduca:<LX8458jJihgcEuyC>@patota-db.r05fgaw.mongodb.net/?retryWrites=true&w=majority"
